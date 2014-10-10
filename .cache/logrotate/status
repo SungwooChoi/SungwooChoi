@@ -1,0 +1,16 @@
+logrotate state -- version 2
+"/home/choisungwoo/.cache/upstart/dbus.log" 2014-10-10-11:6:37
+"/home/choisungwoo/.cache/upstart/update-notifier-release.log" 2014-10-10-10:53:26
+"/home/choisungwoo/.cache/upstart/unity7.log" 2014-10-10-10:53:26
+"/home/choisungwoo/.cache/upstart/hud.log" 2014-10-1-14:0:0
+"/home/choisungwoo/.cache/upstart/indicator-power.log" 2014-10-10-10:53:26
+"/home/choisungwoo/.cache/upstart/indicator-bluetooth.log" 2014-10-10-10:53:26
+"/home/choisungwoo/.cache/upstart/indicator-sound.log" 2014-10-10-10:53:26
+"/home/choisungwoo/.cache/upstart/unity-panel-service.log" 2014-10-10-11:6:37
+"/home/choisungwoo/.cache/upstart/at-spi2-registryd.log" 2014-10-10-10:53:26
+"/home/choisungwoo/.cache/upstart/indicator-printers.log" 2014-10-1-14:0:0
+"/home/choisungwoo/.cache/upstart/unity-settings-daemon.log" 2014-10-10-10:53:26
+"/home/choisungwoo/.cache/upstart/update-notifier-cds.log" 2014-10-8-13:12:0
+"/home/choisungwoo/.cache/upstart/gnome-session-Unity.log" 2014-10-10-11:6:37
+"/home/choisungwoo/.cache/upstart/im-config.log" 2014-10-10-10:53:26
+"/home/choisungwoo/.cache/upstart/window-stack-bridge.log" 2014-10-10-10:53:26

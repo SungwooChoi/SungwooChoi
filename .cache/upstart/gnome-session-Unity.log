@@ -1,0 +1,14 @@
+WARN  2014-10-10 11:10:17 unity.applicationstarterimp ApplicationStarterImp.cpp:54 Unable to launch gnome-terminal.desktop:포크 실패(메모리를 할당할 수 없습니다)
+WARN  2014-10-10 11:10:18 unity.applicationstarterimp ApplicationStarterImp.cpp:54 Unable to launch gnome-terminal.desktop:포크 실패(메모리를 할당할 수 없습니다)
+WARN  2014-10-10 11:10:21 unity.applicationstarterimp ApplicationStarterImp.cpp:54 Unable to launch gnome-terminal.desktop:포크 실패(메모리를 할당할 수 없습니다)
+WARN  2014-10-10 11:10:27 unity.iconloader IconLoader.cpp:755 Unable to load icon file:///usr/share/icons/unity-icon-theme/places/svg/result-reference.svg at size 96x96: 파일 열기 오류: 그런 파일이나 디렉터리가 없습니다
+WARN  2014-10-10 11:10:28 unity.applicationstarterimp ApplicationStarterImp.cpp:54 Unable to launch gnome-terminal.desktop:포크 실패(메모리를 할당할 수 없습니다)
+WARN  2014-10-10 11:10:34 unity.launcher.icon.application ApplicationLauncherIcon.cpp:683 포크 실패(메모리를 할당할 수 없습니다)
+1412907519994	addons.xpi	WARN	Exception running bootstrap method shutdown on webapps-team@lists.launchpad.net: ReferenceError: sss is not defined (resource://gre/modules/addons/XPIProvider.jsm -> file:///usr/share/mozilla/extensions/%7Bec8030f7-c20a-464f-9b0e-13a3a9e97384%7D/webapps-team@lists.launchpad.net/bootstrap.js:72:4) JS Stack trace: shutdown@resource://gre/modules/addons/XPIProvider.jsm -> file:///usr/share/mozilla/extensions/%7Bec8030f7-c20a-464f-9b0e-13a3a9e97384%7D/webapps-team@bootstrap.js:72:5 < XPI_callBootstrapMethod@XPIProvider.jsm:4232:9 < shutdownObserver@XPIProvider.jsm:1969:1
+
+(process:10201): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare'에서 에러 255을(를) 반환: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error 그런 파일이나 디렉터리가 없습니다
+Please ask your system administrator to enable user sharing.
+
+ERROR 2014-10-10 11:25:01 unity.settings UnitySettings.cpp:366 Invalid monitor index: -1. Returning index 0 monitor instead.
+1412907914133	addons.xpi	WARN	Exception running bootstrap method shutdown on webapps-team@lists.launchpad.net: ReferenceError: sss is not defined (resource://gre/modules/addons/XPIProvider.jsm -> file:///usr/share/mozilla/extensions/%7Bec8030f7-c20a-464f-9b0e-13a3a9e97384%7D/webapps-team@lists.launchpad.net/bootstrap.js:72:4) JS Stack trace: shutdown@resource://gre/modules/addons/XPIProvider.jsm -> file:///usr/share/mozilla/extensions/%7Bec8030f7-c20a-464f-9b0e-13a3a9e97384%7D/webapps-team@bootstrap.js:72:5 < XPI_callBootstrapMethod@XPIProvider.jsm:4232:9 < shutdownObserver@XPIProvider.jsm:1969:1
